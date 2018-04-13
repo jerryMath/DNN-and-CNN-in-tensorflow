@@ -10,7 +10,6 @@ and use Adam optimizer to minimize it. We record the validation and test
 accuracy of DNN and CNN. Finally, we plot them.
 
 """
-
 import tensorflow as tf
 from tensorflow.examples.tutorials.mnist import input_data
 import buildNN
