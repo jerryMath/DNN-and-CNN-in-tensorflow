@@ -7,7 +7,7 @@ Created on Thu Mar 15 23:45:58 2018
 
 After building the DNN and CNN, we model the cost function by cross entropy 
 and use Adam optimizer to minimize it. We record the validation and test
-accuracy of DNN and CNN. Finally, we plot them.
+accuracy of DNN and CNN. Finally, we plot them. JC
 
 """
 import tensorflow as tf
